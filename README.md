@@ -1,6 +1,8 @@
 # Sudoku
 This is a Sudoku game implemented using java swing.
-![image](https://github.com/KonstantinosGalanis/Sudoku/assets/147558588/4873126d-8994-4143-aa56-239a297be40e)
+
+![image](https://github.com/KonstantinosGalanis/Sudoku/assets/147558588/a83471f9-78bf-4697-ad76-5eb03c0dac95)
+
 
 # Compilation and Execution
 
