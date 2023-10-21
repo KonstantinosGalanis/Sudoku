@@ -8,8 +8,10 @@ This is a Sudoku game implemented using java swing.
 # Compilation and Execution
 
 Compile the files using the command:
-javac SudokuPackage/Homework3.java
+
+```javac SudokuPackage/Homework3.java```
 
 Run the files using the Command:
-java Homework3
+
+```java Homework3```
 
